@@ -1,0 +1,13 @@
+https://askubuntu.com/questions/963527/error-build-essential-depends-g-44-4-3-but-it-is-not-going-to-be-ins
+
+
+apt update
+apt -f install
+apt full-upgrade
+
+
+Link to fix this error when we try to install rpi.gpio
+////////////////////////////////////////////////////////////////////////////////
+Cleaning up...
+Command /var/working/venv/bin/python2 -c "import setuptools, tokenize;__file__='/tmp/pip-build-jZwcFd/rpi.gpio/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-8f6W2b-record/install-record.txt --single-version-externally-managed --compile --install-headers /var/working/venv/include/site/python2.7 failed with error code 1 in /tmp/pip-build-jZwcFd/rpi.gpio
+Storing debug log for failure in /root/.pip/pip.log
