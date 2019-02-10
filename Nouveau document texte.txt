@@ -14,3 +14,8 @@ Storing debug log for failure in /root/.pip/pip.log
 
 
 Use "vi" command instead of "vim"
+
+/////////
+Change the OS to Raspbian Stretch
+
+use python3 blinky.py to run blinky.py
