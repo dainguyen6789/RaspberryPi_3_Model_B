@@ -19,3 +19,6 @@ Use "vi" command instead of "vim"
 Change the OS to Raspbian Stretch
 
 use python3 blinky.py to run blinky.py
+
+
+shift + insert to paste a text to terminal
