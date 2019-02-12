@@ -22,3 +22,9 @@ use python3 blinky.py to run blinky.py
 
 
 shift + insert to paste a text to terminal
+
+
+
+Quit VIM when open readonly file
+
+:conf q
