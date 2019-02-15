@@ -28,3 +28,11 @@ shift + insert to paste a text to terminal
 Quit VIM when open readonly file
 
 :conf q
+
+
+
+
+Can not start nginx because of wrong config file
+
+missing s in server : erver
+
