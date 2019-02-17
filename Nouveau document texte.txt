@@ -41,3 +41,9 @@ missing s in server : erver
 
 Note: with Raspbian Stretch Full use "python3" to run the python script instead of "python"
 
+
+
+(venv1) pi@raspberrypi:/var/working/Adafruit_Python_DHT/examples $ python3 AdafruitDHT.py 11  4
+
+Note: DHT11 and 4 is the GPIO pin 4
+
