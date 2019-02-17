@@ -36,3 +36,8 @@ Can not start nginx because of wrong config file
 
 missing s in server : erver
 
+
+
+
+Note: with Raspbian Stretch Full use "python3" to run the python script instead of "python"
+
