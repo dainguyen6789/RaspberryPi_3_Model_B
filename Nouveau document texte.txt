@@ -47,3 +47,6 @@ Note: with Raspbian Stretch Full use "python3" to run the python script instead 
 
 Note: DHT11 and 4 is the GPIO pin 4
 
+
+Must use sudo sqlite3 lab_app.db to create database
+
