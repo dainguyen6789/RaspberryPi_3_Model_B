@@ -1,3 +1,6 @@
+
+
+
 https://askubuntu.com/questions/963527/error-build-essential-depends-g-44-4-3-but-it-is-not-going-to-be-ins
 
 
@@ -49,4 +52,8 @@ Note: DHT11 and 4 is the GPIO pin 4
 
 
 Must use sudo sqlite3 lab_app.db to create database
+
+
+
+USe sudo python3 temp_humid_record.py in order to record the data to the database 
 
